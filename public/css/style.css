@@ -8402,7 +8402,7 @@ h1, h2, h3, h4, h5,
   overflow-y: hidden;
   z-index: 1001;
   /* border-right: 1px solid rgba(208, 211, 212, 0.3); */
-  background: url(/img/aside.png) no-repeat right top #000;
+  background: url(../img/aside.png) no-repeat right top #000;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
@@ -8414,7 +8414,7 @@ h1, h2, h3, h4, h5,
   @media (max-width: 991.98px) {
     #colorlib-aside {
       width: 270px;
-      background: url(/img/aside.png) no-repeat right top #000 !important;
+      background: url(../img/aside.png) no-repeat right top #000 !important;
       -moz-transform: translateX(-270px);
       -webkit-transform: translateX(-270px);
       -ms-transform: translateX(-270px);
